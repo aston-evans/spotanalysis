@@ -4,3 +4,6 @@ data/raw/
 
 .venv/
 
+.cache 
+
+playlists.csv 
